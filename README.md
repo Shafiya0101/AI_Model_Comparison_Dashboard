@@ -1,5 +1,7 @@
 # 🤖 AI Model Comparison Dashboard
 
+🔗 Live app: https://aimodelcomparisondashboard.streamlit.app/
+
 An interactive **Streamlit** dashboard for comparing how different AI models respond to prompts — weighing **answer quality** against the **energy, carbon, and latency** cost of producing each answer.
 
 It loads one or more Excel result files, lets you switch between them, and visualizes the trade-offs so you can see which model gives the best answers for the least resource cost.
